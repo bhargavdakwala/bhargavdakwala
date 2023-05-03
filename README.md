@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhargav Dakwala</h1>
-<h3 align="center">A passionate Backend developer from Germany.Microsoft Certified: Azure Solutions Architect Expert | Certified Scrum Master | Microsoft Application Developer Technical Project Manager with - 13 years Exp</h3>
+<h1 align="center">Hi 👋, I'm Bhargav Dakwala ,a professional **self-taughted** FullStack web developer from Germany.</h1>
+<h3 align="center">Microsoft Certified: Azure Solutions Architect Expert | Certified Scrum Master | Microsoft Application Developer Technical Project Manager with - 13 years Exp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavdakwala&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavdakwala" /> </p>
 
