@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Bhargav Dakwala ,a professional **self-taughted** FullStack web developer from Germany.</h1>
-<h3 align="center">Microsoft Certified: Azure Solutions Architect Expert | Certified Scrum Master | Microsoft Application Developer Technical Project Manager with - 13 years Exp</h3>
+<h1 align="center"><a href="https://www.credly.com/badges/c04bf644-dc5d-4957-b784-faa5c775ce1d/email"><img src="https://images.credly.com/size/50x50/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" alt="bhargavdakwala" /></a>Hi 👋, I'm Bhargav Dakwala ,a professional **self-taughted** FullStack web developer from Germany.</h1>
+<h3 align="center">
+
+Microsoft Certified: Azure Solutions Architect Expert | Certified Scrum Master |
+Microsoft Application Developer | DevOps
+Technical Project Manager with - 13 years of Experience in Microsoft tools and Technology | Full Stack Developer |
+Experience in Monolithic and Microservice Architecture | Amazon AWS/EC2 | ReactJS | CI/CD | Azure | Amazon Web
+Service | API Integration | IBM Waston | OCR | NLP | Project Management | HIL | SIL
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavdakwala&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavdakwala" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargavdakwala" alt="bhargavdakwala" /></a> </p>
-
 
 
 - 🔭 I’m currently working on **.Net Core,c#,SQL Server,Azure table storage, MVC and Entity Framework**
